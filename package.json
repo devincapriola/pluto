@@ -1,7 +1,7 @@
 {
     "name": "pluto",
     "displayName": "Pluto",
-    "description": "",
+    "description": "a simple vscode theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.69.0"
