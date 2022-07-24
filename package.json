@@ -1,8 +1,8 @@
 {
     "name": "plutotheme",
-    "displayName": "Pluto vscode theme",
+    "displayName": "PlutoTheme",
     "description": "a simple vscode theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "plutotheme",
     "license": "MIT",
     "icon": "icon.png",
