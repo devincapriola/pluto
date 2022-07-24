@@ -2,9 +2,9 @@
 ### a simple vscode theme
 
 ## Install
-1. Go to [VS Marketplace](). # TODO add link
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=plutotheme.plutotheme). 
 2. Click on the "Install" button.
-3. Then [select the theme](). # TODO add link
+3. Then [select the theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
 
 ## :handshake: Contributing
 
