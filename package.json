@@ -3,11 +3,26 @@
     "displayName": "Pluto",
     "description": "a simple vscode theme",
     "version": "0.0.1",
+    "publisher": "DevinCapriola",
+    "license": "MIT",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devincapriola/pluto"
+    },
+    "bugs": {
+        "url": "https://github.com/devincapriola/pluto/issues"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "pluto"
     ],
     "contributes": {
         "themes": [
