@@ -1,36 +1,48 @@
 {
-    "name": "plutotheme",
-    "displayName": "PlutoTheme",
-    "description": "a simple vscode theme",
-    "version": "0.0.2",
-    "publisher": "plutotheme",
-    "license": "MIT",
-    "icon": "icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/devincapriola/pluto"
-    },
-    "bugs": {
-        "url": "https://github.com/devincapriola/pluto/issues"
-    },
-    "engines": {
-        "vscode": "^1.69.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "theme",
-        "dark",
-        "pluto"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pluto",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Pluto-color-theme.json"
-            }
-        ]
-    }
+	"name": "plutotheme",
+	"displayName": "PlutoTheme",
+	"description": "a simple vscode theme",
+	"version": "0.0.3",
+	"publisher": "plutotheme",
+	"license": "MIT",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/devincapriola/pluto"
+	},
+	"bugs": {
+		"url": "https://github.com/devincapriola/pluto/issues"
+	},
+	"engines": {
+		"vscode": "^1.69.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"pluto",
+		"light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pluto Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pluto-color-theme-dark.json"
+			},
+			{
+				"label": "Pluto Light",
+				"uiTheme": "vs",
+				"path": "./themes/Pluto-color-theme-light.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1c1672a7-c941-4ce3-b06a-b1eae0a4ad21",
+		"publisherDisplayName": "pluto theme",
+		"publisherId": "62a3b5da-6609-4c6a-aae0-5a288d075dbc",
+		"isPreReleaseVersion": false
+	}
 }
