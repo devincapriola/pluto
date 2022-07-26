@@ -2,6 +2,9 @@
 
 All notable changes to the "pluto" extension will be documented in this file.
 
+## 0.0.4
+- Updated dark theme
+
 ## 0.0.3
 - Added light theme
 - Updated dark theme
