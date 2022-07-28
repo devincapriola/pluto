@@ -2,7 +2,7 @@
 	"name": "plutotheme",
 	"displayName": "PlutoTheme",
 	"description": "a simple vscode theme",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"publisher": "plutotheme",
 	"license": "MIT",
 	"icon": "icon.png",
