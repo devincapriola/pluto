@@ -2,8 +2,12 @@
 
 All notable changes to the "pluto" extension will be documented in this file.
 
+## 0.0.6
+- Updated dark theme
+- Updated light theme
+
 ## 0.0.5
-- Updated dark theme 
+- Updated dark theme
 - Updated light theme
 - New logo
 
@@ -21,5 +25,4 @@ All notable changes to the "pluto" extension will be documented in this file.
 - Update README
 
 ## 0.0.1
-
 - Initial release.
